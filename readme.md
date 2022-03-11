@@ -3,7 +3,7 @@
 Install
 
 ```vim
-Plug 'rpzeng/markdown-title-number'
+Plug 'https://gitee.com/zengrp/markdown-title-number.git'
 ```
 
 command：
